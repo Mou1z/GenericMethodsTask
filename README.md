@@ -1,6 +1,6 @@
 # Description
 
-We have a program that contains a method called `ReverseArray`. The method reversed an integer array. 
+We have a program which contains a method called `ReverseArray`. The method reversed an integer array. 
 
 In the main method, we are attempting to reverse a string array as well, however, it results in an error because the `ReverseArray` method does not support a `string` array. 
 
